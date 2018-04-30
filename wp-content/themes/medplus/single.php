@@ -6,7 +6,12 @@
  */
 
 get_header(); ?>
+<div class="post_member_detail">
+<div class="heading" style="font-weight: bold;">Mem<span class="sub-heading">bers</span></div>
 
+<hr class="heading-line-doijoin user_profile_border" />
+</div>
+<div class="testimonial_page_single post-detailpage">
 <div class="container">
      <div class="page_content">
         <section class="site-main">            
@@ -25,4 +30,5 @@ get_header(); ?>
         <div class="clear"></div>
     </div><!-- page_content -->
 </div><!-- container -->	
+</div>
 <?php get_footer(); ?>

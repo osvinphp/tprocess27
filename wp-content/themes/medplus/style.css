@@ -390,4 +390,201 @@ padding:0px;
 	border-color: rgb(238, 50, 85);
 	border-width: 2px;
 }
+.heading {
+    text-align: center;
+    font-size: 30px;
+    color: #474747;
+    font-weight: bold;
+}
+.sub-heading {
+    color: #DB0051;
+}
+.heading-line-doijoin {
+    max-width: 8%;
+    margin: 12px auto;
+    color: #ee3255;
+    border: 1px solid;
+}
+.heading-line-login-join {
+    max-width: 3%;
+    margin: 12px auto;
+    color: #ee3255;
+    border: 1px solid;
+}
+#PostsGrid {
+    background-image: url(http://phphosting.osvin.net/tpprocess27/wp-content/uploads/2018/04/main-cnt-testimonal.png);
+    background-size: 100%;
+}
+.test_heading_simp
+{
+    padding: 35px 0px;
+}
+.testimonial_page_single {
+    background-image: url(http://phphosting.osvin.net/tpprocess27/wp-content/uploads/2018/04/main-cnt-testimonal.png);
+    background-size: 100%;
+    padding-bottom: 45px;
+}
+#PostsGrid .vc_row.wpb_row.vc_inner.vc_row-fluid {
+    margin: 0px auto;
+}
+.um.formrege_set .um-form input[type="text"], .um.formrege_set .um-form input[type="password"], .um.formrege_set .um-form input[type="tel"], .um.formrege_set .um-form textarea {
+    width: 100%;
+    margin-bottom: 10px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 0px !important;
+    box-shadow: 0px 0px 0px !important;
+    border-bottom: 1px solid #aaaaac !important;
+    font-size: 15px !important;
+    color: #666668;
+    padding-left: 10px;
+    margin-bottom: 20px!important;
+}
+.um.formrege_set .um-form input[type="submit"]
+{
+    background-color: transparent !important;
+    font-weight: bold !important;
+    padding: 10px 30px !important;
+    border-radius: 3px !important;
+    border-width: 2px !important;
+    border-color: rgb(238, 50, 85) !important;
+    border-style: solid !important;
+    color: rgb(219, 0, 81) !important;
+    font-size: 15px !important;
+    width: auto !important;
+    min-width: auto !important;
+}
+.howdo_join {
+    padding: 35px 0px 0px;
+}
+.homeform .gr_ver_2 {
+    width: auto !important;
+    height: auto !important;
+    padding: 0px !important;
+    display: none;
+}
+.um.formrege_set .um-form input[type="text"]:focus, .um.formrege_set .um-form input[type="password"]:focus, .um.formrege_set .um-form input[type="tel"]:focus
+{
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-top: 0px !important;
+    border-bottom: 1px solid #aaaaac !important;
+}
+.members_page .um-edit-profile-btn.um-button.um-alt {
+    background-color: transparent !important;
+    font-weight: bold;
+    padding: 9px 10px;
+    border-radius: 3px;
+    border-color: rgb(238, 50, 85);
+    color: rgb(219, 0, 81) !important;
+    font-size: 12px;
+    border: 2px solid !important;
+}
+.member_profile .posts .um-item {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.um-128.um.member_profile  .um-profile-body {
+    max-width: 100%;
+}
+.um.member_profile .um-profile-nav-item.active a {
+    background: #db0051 !important;
+    border: 2px solid #db0051 !important;
+    color: #fff !important;
+}
+.um.member_profile .um-item-meta a
+{
+    color: #474747;
+}
+.member_profile .um-header {
+    background:rgba(245, 245, 245, 0.6);
+    }
+    .um-profile.um.member_profile .um-profile-headericon a:hover,
+    {
+        color: #db0051;
+    }
+    .um.member_profile .um-left input[type="submit"].um-button
+    {
+        background: transparent;
+        background-color: transparent;
+        border: 2px solid #db0051 !important;
+        color: #db0051;
+        font-size: 17px;
+        font-weight: bold !important;
+    }
+    .um.member_profile .um-right a.um-button
+    {
+        background: transparent;
+        background-color: transparent;
+        border: 2px solid #666666 !important;
+        color: #666666;
+        font-size: 17px;
+        font-weight: bold !important;
+    }
+    .um.account_gernal a.um-link:hover{
+        color: #db0051;
+    }
+    .um.account_gernal a.um-link {
+        color: #db0051;
+    }
+    .account_gernal .um-account-side li a.current span.um-account-icon
+    {
+        color: #db0051;
+    }
+    .account_gernal .um-account-side li a.current:hover span.um-account-icon, .um.account_gernal .um-tip:hover
+    {
+        color: #db0051;
+    }
+    .um.account_gernal .um-field-radio.active:not(.um-field-radio-state-disabled) i
+    {
+        color: #db0051;
+    }
+    .um.account_gernal {
+        padding: 45px 0px 90px;
+        min-height: 641px;
+        width: 100%;
+    }
+    .account_gernal .um-account-side li a
+    {
+        padding: 14px 0px;
+    }
+    .account_gernal .select2.select2-container .select2-selection
+    {
+        width: 100%;
+        margin-bottom: 10px !important;
+        border-left: 0px !important;
+        border-right: 0px !important;
+        border-top: 0px !important;
+        box-shadow: 0px 0px 0px !important;
+        border-bottom: 1px solid #aaaaac !important;
+        font-size: 15px !important;
+        color: #666668;
+        padding-left: 10px;
+        margin-bottom: 0px !important;
+    }
+    .post_member_detail {
+        padding: 25px 0px;
+    }
+    .post-detailpage #commentform input#submit
+    {
+        border: 2px solid #E14165;
+        background: transparent;
+        color: #E14165;
+        font-weight: bold;
+    }
+    .post-detailpage h3.widget-title
+    {
+        color: #E14165;
+    }
+    .member_sectionsetdes
+    {
+        min-height: 72vh;
+    }
+    .heading-line-resetpass {
+        max-width: 23%;
+        margin: 12px auto;
+        color: #ee3255;
+        border: 1px solid;
+    }
 /********* Custom CSS added  later ****/
